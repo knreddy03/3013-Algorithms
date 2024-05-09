@@ -1,5 +1,5 @@
 ##  Assignments
 
-|   #   | Folder Link | Assignment Description |
-| :---: | ----------- | ---------------------- |
-|   0   | link 0      | description 0          |
+|   #   | Folder Link                   | Assignment Description                                                             |
+| :---: | ----------------------------- | -----------------------------------------------------------------------------------|
+|   1   | [P02](./P02)      | [Linear Search over the JSON file.](./P02/README.md)                           |
